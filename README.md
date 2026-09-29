@@ -1,5 +1,8 @@
 # WCAG-Compliant Alt Text Generator
 
+> [!IMPORTANT]
+> **Archived.** Superseded by [accessibility-evidence-engine](https://github.com/Elizabeth1979/accessibility-evidence-engine). Its image-role rules (decorative, informative, functional) live on there in the image-purpose AI specialist, which drafts alt text from the page's own context. This repository is read-only and kept for its history.
+
 A Python tool that automatically analyzes web pages and generates WCAG-compliant alt text for images using the Claude AI model. The tool extracts images, understands their context, and generates appropriate alt text following Web Content Accessibility Guidelines (WCAG) 2.1.
 
 ## Features
